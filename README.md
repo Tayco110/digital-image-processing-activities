@@ -1,2 +1,6 @@
-# Digital Image Processing
-Digital image processing course activities
+# Digital image processing course activities
+### Aluno: Tayco Murilo Santos Rodrigues
+### Curso: Engenharia de Computação
+### Matricula: 17211250
+
+
