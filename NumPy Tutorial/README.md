@@ -1,5 +1,5 @@
 - [NumPy Array](https://github.com/Tayco110/digital-image-processing/blob/main/NumPy%20Tutorial/NumPyArray.ipynb)
-- Questions on NumPy Matrix
+- [Questions on NumPy Matrix](https://github.com/Tayco110/digital-image-processing/blob/main/NumPy%20Tutorial/Questions%20on%20NumPy%20Matrix.ipynb)
 - Questions on NumPy Indexing
 - Questions on NumPy Linear Algebra
 - Questions on NumPy Random
