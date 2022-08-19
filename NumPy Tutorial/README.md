@@ -4,7 +4,7 @@
 - [Questions on NumPy Linear Algebra](https://github.com/Tayco110/digital-image-processing/blob/main/NumPy%20Tutorial/Questions%20on%20NumPy%20Linear%20Algebra.ipynb)
 - [Questions on NumPy Random](https://github.com/Tayco110/digital-image-processing/blob/main/NumPy%20Tutorial/Questions%20on%20NumPy%20Random.ipynb)
 - [Questions on NumPy Sorting and Searching](https://github.com/Tayco110/digital-image-processing/blob/main/NumPy%20Tutorial/Questions%20on%20NumPy%20Sorting%20and%20Searching.ipynb)
-- [Questions on NumPy Mathematics]()
+- [Questions on NumPy Mathematics](https://github.com/Tayco110/digital-image-processing/blob/main/NumPy%20Tutorial/Questions%20on%20NumPy%20Mathematics.ipynb)
 - [Questions on NumPy Statistics]()
 - [Questions on Polynomial]()
 - [Questions on NumPy Strings]()
